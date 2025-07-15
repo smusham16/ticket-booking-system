@@ -1,0 +1,15 @@
+### Java ###
+target/
+*.class
+*.jar
+*.war
+.idea/
+.classpath
+.project
+.settings/
+
+### Node ###
+node_modules/
+build/
+.env
+
